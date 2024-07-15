@@ -74,13 +74,13 @@ CREATE TABLE `chat` (
 --
 
 INSERT INTO `chat` (`id_cht`, `nama_cht`, `email_cht`, `isi_cht`, `gender_cht`) VALUES
-(2, 'Naufal S', 'naufalsyahruradli@gmail.com', 'halo wak', 'male'),
-(3, 'Naufal S', 'naufalsyahruradli@gmail.com', 'no jomok wak', 'male'),
+(2, 'Naufal S', 'radli@gmail.com', 'halo wak', 'male'),
+(3, 'Naufal S', 'radli@gmail.com', 'no jomok wak', 'male'),
 (4, 'Adli', 'adli@gmail.com', 'Ok wak Amann', 'male'),
 (5, 'Adli', 'adli@gmail.com', 'halo gesss', 'male'),
 (6, 'Adli', 'adli@gmail.com', 'ppp\r\n', 'male'),
-(7, 'Naufal S', 'naufalsyahruradli@gmail.com', 'AWOKAOWKOAKOW MANTEP AJGG', 'male'),
-(8, 'Naufal S', 'naufalsyahruradli@gmail.com', 'Guys?', 'male');
+(7, 'Naufal S', 'radli@gmail.com', 'AWOKAOWKOAKOW MANTEP AJGG', 'male'),
+(8, 'Naufal S', 'radli@gmail.com', 'Guys?', 'male');
 
 -- --------------------------------------------------------
 
@@ -101,7 +101,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id_kdm`, `username_kdm`, `email_kdm`, `password_kdm`, `gender_kdm`) VALUES
-(1, 'Naufal S', 'naufalsyahruradli@gmail.com', '933f1441b6a98f7f2bd3f2bef5d0b533', 'male'),
+(1, 'Naufal S', 'radli@gmail.com', '933f1441b6a98f7f2bd3f2bef5d0b533', 'male'),
 (2, 'Adli', 'adli@gmail.com', '933f1441b6a98f7f2bd3f2bef5d0b533', 'male');
 
 --
