@@ -1,0 +1,32 @@
+{
+    "kodam": [
+        {
+            "nama": "karet ban",
+            "kekuatan": "melar sampe ujung dunia"
+        },
+        {
+            "nama": "macan putih",
+            "kekuatan": "Tak Terkalahkan"
+        },
+        {
+            "nama": "macan hitam",
+            "kekuatan": "dapat bersaing dengan macan putih"
+        },
+        {
+            "nama": "kaset rusak",
+            "kekuatan": "dapat merusak suasana"
+        },
+        {
+            "nama": "kosong",
+            "kekuatan": "kosong"
+        },
+        {
+            "nama": "orang hilang",
+            "kekuatan": "menghilangkan orang"
+        },
+        {
+            "nama": "bunga mawar",
+            "kekuatan": "menawan tapi mematikan"
+        }
+    ]
+}
